@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Blockchain%20Analysis-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hashing-SHA--256-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platforms-Solana%20%7C%20Cardano-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platforms-Ganache-purple?style=for-the-badge" />
 </p>
 
 ---
