@@ -20,7 +20,7 @@ The focus is on analyzing:
 - 📊 **Throughput**
 - ⏱️ **Verification Time**
 
-across different blockchain platforms like **Solana** and **Cardano**.
+
 
 ---
 
